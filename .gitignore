@@ -1,0 +1,5 @@
+/WindowsApplication1/bin/Debug
+/WindowsApplication1/*.user
+/WindowsApplication1/bin/Release
+/WindowsApplication1/obj/x86/Debug
+/WindowsApplication1/obj/x86/Release
